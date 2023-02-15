@@ -1,4 +1,4 @@
-# batch-corrected scetm
+# Batch-Corrected scETM
 This is the final project of ECE 449 Fall 2021. It's a batch effect corrected scETM model dealing with single cell annotation assignment. Only for academic use and please don't copy, any action violates academic integrity is strictly forbidden and will be punished accordingly.
 
 >* Other Group Member
